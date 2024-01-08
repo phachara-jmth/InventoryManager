@@ -1,0 +1,46 @@
+{
+    "240108001": {
+        "Name": "camera01",
+        "Tag": [
+            "#camera",
+            "#SVS"
+        ],
+        "Status": "sold",
+        "Staff name": "James",
+        "Customer name": "Denso",
+        "Last edit date": "2024-01-08T16-04-32"
+    },
+    "240108002": {
+        "Name": "camera01",
+        "Tag": [
+            "#camera",
+            "#SVS"
+        ],
+        "Status": "stock",
+        "Staff name": "James",
+        "Customer name": "Denso",
+        "Last edit date": "2024-01-08T15-43-12"
+    },
+    "240108003": {
+        "Name": "camera01",
+        "Tag": [
+            "#camera",
+            "#SVS"
+        ],
+        "Status": "stock",
+        "Staff name": "James",
+        "Customer name": "Denso",
+        "Last edit date": "2024-01-08T15-51-24"
+    },
+    "240108004": {
+        "Name": "camera01",
+        "Tag": [
+            "#camera",
+            "#SVS"
+        ],
+        "Status": "stock",
+        "Staff name": "James",
+        "Customer name": "Denso",
+        "Last edit date": "2024-01-08T16-04-32"
+    }
+}
